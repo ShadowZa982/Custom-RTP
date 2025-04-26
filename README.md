@@ -1,6 +1,8 @@
 <p align="center">
   <b><a>Chào mừng đến với CustomRTP repository!</a></b>
-</p>
+</p>![CustomRTP])
+<img src="https://github.com/user-attachments/assets/b79aa0b7-665b-4994-8f4a-ba0b44ba25b0"
+
 # Custom-RTP
 Là một plugin RTP đơn giản và nhẹ dành cho máy chủ minecaft của bạn, với các tuỳ chọn mặc định như world, nether, the end và bạn có thể tuỳ chỉnh thêm nhiều mục tuỳ ý trong một menu.
 
