@@ -1,7 +1,10 @@
 <p align="center">
   <b><a>Chào mừng đến với CustomRTP repository!</a></b>
 
-<img src="https://github.com/user-attachments/assets/ad7a7263-647a-4b60-845f-a27524d23660"
+<p align="center">
+  ![CustomRTP](https://github.com/user-attachments/assets/94368b05-eb60-44c3-926a-a68115c7dd10)
+
+</p>
 
 
 # Custom-RTP
