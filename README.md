@@ -1,10 +1,11 @@
 <p align="center">
-  <b><a>Chào mừng đến với CustomRTP repository!</a></b>
+  <b><a>Chào mừng đến với CustomRTP repository!</a></b><br>
 
-<p align="center">
-  ![CustomRTP](https://github.com/user-attachments/assets/94368b05-eb60-44c3-926a-a68115c7dd10)
 
-</p>
+  
+  <img src="https://github.com/user-attachments/assets/ea8639bd-b9f7-4d24-9e3a-2fb0dcfecdb6?longCache=true&style=flat-square&label=Discord" alt="Discord" />
+
+
 
 
 # Custom-RTP
