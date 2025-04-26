@@ -27,5 +27,5 @@ Wiki đã có sẵn tại [here](../../wiki)!
   <a href="https://www.spigotmc.org/resources/36081/">Cảm ơn bạn đã xem Wiki của CustomRTP!</a><br/>
   <i><a>Wiki này có giúp ích cho bạn không? Hãy cho nó một <b>Ngôi sao</b> để tôi biết nó đang được sử dụng!</a></i><br/>
   <br/>
-  <b><i><a href="https://www.spigotmc.org/resources/authors/superronancraft.13025/">Kiểm tra các plugin khác của tôi!</a></i></b>
+  <b><i><a href="https://www.spigotmc.org/resources/customs-rtp.124446/">Kiểm tra các plugin khác của tôi!</a></i></b>
 </p>
