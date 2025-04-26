@@ -13,7 +13,7 @@ Wiki đã có sẵn tại [here](../../wiki)!
     
 <p align="center">
   <b>Chat với chúng tôi trên Discord</b><br/>
-  <a href="https://discord.gg/ThEFtBxpRf"><img src="https://img.shields.io/discord/1362638278758502420.svg?longCache=true&style=flat-square&label=Discord" alt="Discord](https://discord.com/api/guilds/1362638278758502420/widget.json)" /></a><br/>
+  <a href="https://discord.gg/ThEFtBxpRf"><img src="https://img.shields.io/discord/1362638278758502420.svg?longCache=true&style=flat-square&label=Discord" alt="Discord" /></a><br/>
   <b>Bạn có gợi ý gì không? Hãy đưa ra vấn đề!</b><br/>
   <a href="../../issues"><img src="https://img.shields.io/github/issues-raw/ShadowZa982/CustomRTP.svg?longCache=true&style=flat-square&label=Issues" alt="GitHub issues" /></a><br/>
   <br/>
